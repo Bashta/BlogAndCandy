@@ -1,16 +1,15 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+title: PerpetiOS
+description: 'PerpetiOS - iOS blog, from Perpets with <3'
 url: 'http://joshgerdes.com/jekyll-uno' 
-baseurl: '/jekyll-uno/'
+baseurl: '/perpet/'
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Erison Veshi'
+  email: erisonve@gmail.com
+  twitter_username: noterisonveshi
+  github_username:  bashta
 
 # Build settings
 destination: _site
